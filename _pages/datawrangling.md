@@ -4,7 +4,7 @@ permalink: /data-wrangling/
 title: "Data Wrangling Posts by Tags"
 author_profile: true
 header:
-    image: "images/abstraction.jpg"
+    image: "images/abstraction.png"
 ---
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
