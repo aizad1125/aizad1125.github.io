@@ -116,7 +116,7 @@ $link-color: mix(#233148, $info-color, 20%) !default;
 $link-color-hover: mix(#FAA75B, $link-color, 25%) !default;
 $link-color-visited: mix(#FAA75B, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#233148, $primary-color, 25%) !default;
+$masthead-link-color-hover: mix(#FAA75B, $primary-color, 75%) !default;
 $navicon-link-color-hover: mix(#FAA75B, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
