@@ -77,7 +77,7 @@ $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #233148 !default;
 $focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
+$active-color: mix(#fff, $primary-color, 60%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -112,12 +112,12 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#6f777d, $info-color, 20%) !default;
-$link-color-hover: mix(#FAA75B, $link-color, 25%) !default;
-$link-color-visited: mix(#FAA75B, $link-color, 15%) !default;
-$masthead-link-color: #FAA75B !default;
-$masthead-link-color-hover: mix(#FAA75B, $primary-color, 75%) !default;
-$navicon-link-color-hover: mix(#FAA75B, $primary-color, 75%) !default;
+$link-color: #6f777d !default;
+$link-color-hover: #FAA75B !default;
+$link-color-visited: #9E67AB !default;
+$masthead-link-color: #4da996 !default;
+$masthead-link-color-hover: #de315e !default;
+$navicon-link-color-hover: #5d9bf6 !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
