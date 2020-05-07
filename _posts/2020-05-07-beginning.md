@@ -3,7 +3,7 @@ title: "Beginning"
 date: 2020-05-07
 toc: true
 tags: [data science, R]
-excerpt: "Data science, R"
+excerpt: "This is just a post test"
 ---
 
 # H1
