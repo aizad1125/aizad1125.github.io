@@ -13,8 +13,7 @@ Trying Hard
 Even Harder
 ### H3
 
-Thats what she said
-Here's a text
+Thats what she said!
 
 *italics*
 
