@@ -75,7 +75,7 @@ $primary-color: #233148 !default; /*6f777d*/
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #233148 !default;
+$info-color: #FAA75B !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 60%) !default;
 
@@ -114,9 +114,9 @@ $xing-color: #006567 !default;
 /* links */
 $link-color: #6f777d !default;
 $link-color-hover: #FAA75B !default;
-$link-color-visited: #9E67AB !default;
-$masthead-link-color: #4da996 !default;
-$masthead-link-color-hover: #de315e !default;
+$link-color-visited: #46bdc6 !default;
+$masthead-link-color: #233148 !default;
+$masthead-link-color-hover: #233148 !default;
 $navicon-link-color-hover: #5d9bf6 !default;
 
 /* syntax highlighting (base16) */
