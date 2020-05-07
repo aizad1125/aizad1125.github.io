@@ -20,7 +20,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "DSFN"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data Science for Newbies"
 name                     : "Aizad Tazhi"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Aizad Tazhi"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Aspiring Data Scientist"
   location         : "Malaysia"
   email            :
   links:
