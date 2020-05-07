@@ -416,7 +416,7 @@ body:hover .visually-hidden button {
   .navicon,
   .navicon:before,
   .navicon:after {
-    background: #46bdc6;
+    background: $link-color;
   }
 
   &.close {
