@@ -7,8 +7,13 @@ excerpt: "Data science, R"
 
 # H1
 
+Trying Hard
 ## H2
 
+Even Harder
+### H3
+
+Thats what she said
 Here's a text
 
 *italics*
@@ -18,6 +23,6 @@ Here's a text
 R code block:
 ```r
 library(tidyverse)
-df <- read.csv("test.csv)
+df <- read.csv("test.csv")
 str(df)
 ```
