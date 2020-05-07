@@ -56,7 +56,6 @@ $h-size-6: 1em !default; // ~16px
    ========================================================================== */
 
 $gray: #7a8288 !default;
-$black: #000 !default;
 $dark-gray: mix(#000, $gray, 50%) !default;
 $darker-gray: mix(#000, $gray, 70%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
@@ -112,8 +111,8 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: #6f777d !default;
-$link-color-hover: #46bdc6 !default;
+$link-color: #46bdc6 !default;
+$link-color-hover: #6f777d !default;
 $link-color-visited: #46bdc6 !default;
 $masthead-link-color: #233148 !default;
 $masthead-link-color-hover: #233148 !default;
