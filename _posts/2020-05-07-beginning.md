@@ -1,8 +1,8 @@
 ---
 title: "Beginning"
 date: 2020-05-07
-tags: [data science, r]
-excerpt: "Data science, r"
+tags: [data science, R]
+excerpt: "Data science, R"
 ---
 
 # H1
